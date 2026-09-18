@@ -1,5 +1,6 @@
 # EX 2E Pattern Matching using KMP Algorithm.
 
+### Date :10.8.2026
 ### Developed By: Sandeep S
 
 ### Register Number: 212223220092
